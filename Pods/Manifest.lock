@@ -1,0 +1,16 @@
+PODS:
+  - RGSColorSlider (0.1.1)
+
+DEPENDENCIES:
+  - RGSColorSlider
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RGSColorSlider
+
+SPEC CHECKSUMS:
+  RGSColorSlider: b045e5a4bd9f6fe568184e1ad35dee1f0cdf948f
+
+PODFILE CHECKSUM: 23c7aec641376385f454cc3b0633817ea3ca5729
+
+COCOAPODS: 1.5.3
